@@ -1,2 +1,2 @@
 # Analisis enfermedades
- Proyecto final para la materia: "Desarrollo de aplicaciones informáticas".
+ Este repositorio contiene mi proyecto final para la materia: "Desarrollo de aplicaciones informáticas". En él, se hizo un análisis en Python de los efectos que tuvieron algunas enfermedades en distintas poblaciones. El repositorio contiene los archivos .csv usados para el análisis, así como los archivos de Python que sirven para generar gráficas relevantes de la información. 
